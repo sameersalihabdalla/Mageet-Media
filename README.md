@@ -31,7 +31,7 @@
 
 ---
 
-![واجهة ماقيت ميديا](Screen%20shot/home.jpg)
+![واجهة ماقيت ميديا](Screen Shot/home.jpg)
 
 ![واجهة ماقيت ميديا](Screen%20shot/home_3.jpg)
 ![واجهة ماقيت ميديا](Screen%20shot/main.jpg)
